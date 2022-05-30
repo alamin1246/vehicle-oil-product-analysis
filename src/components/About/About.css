@@ -1,0 +1,9 @@
+.about-info{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gohome-btn{
+    border: none;
+    background-color: rgb(105, 103, 241);
+    height: 35px;
+    border-radius: 5px;
+}

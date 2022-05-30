@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Kibria",
+    "review": "Thank you so much for your Fuel Oil Supply service.The Vehicle Fuel Oil Supply Management System  I ordered arrived within 3 working days and in perfect condition. ",
+    "rating": 5,
+    "image": "https://lpgautogasbd.com/storage/uploaded_photo/gs_owner/Smet-GS-Owner119-1614408749.png",
+    "date":"01 April 2022"
+  },
+  {
+    "id": 2,
+    "name": "Kamrul Hasan Bhuiyan",
+    "review": "The price was much more reasonable than I saw anywhere else and the free delivery meant I was sold! Thanks again. I will definitely bear you in mind for future purchases.",
+    "rating": 4.5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03vHuHzzXkgNJY18TjodffP-o5NAoEjIVxg&usqp=CAU",
+    "date":"02 April 2022"
+  },
+  {
+    "id": 3,
+    "name": "Khairul Huda",
+    "review": "I ordered arrived within 3 working days and in perfect condition.",
+    "rating": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3U0cmEHAVc5TFf080hJ5obxhYgVLXG7LCQSV4myDJh4lpYqo7-wy68U-vbJOujwesR8&usqp=CAU",
+    "date":"02 April 2022"
+  },
+  {
+    "id": 4,
+    "name": "Imtiaz Prodhan",
+    "review": "Thank you for Quality Assurance",
+    "rating": 4.5,
+    "image": "https://lpgautogasbd.com/storage/uploaded_photo/gs_owner/Smet-GS-Owner305-1622090390.png",
+    "date":"03 April 2022"
+  },
+  {
+    "id": 5,
+    "name": "Rahim Mia",
+    "review": "Very good quality",
+    "rating": 5,
+    "image": "https://lpgautogasbd.com/storage/uploaded_photo/gs_owner/Smet-GS-Owner111-1636441035.png",
+    "date":"01 April 2022"
+  },
+  {
+    "id": 6,
+    "name": "Liton Khandokar",
+    "review": "Good Quality",
+    "rating": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnhxIhjcq-mo78Fdbk9kEKPJxuLOGGOChNLLaEUzo6kwmC_zJytdOx3gaGq8Cy76F_aA&usqp=CAU",
+    "date":"01 April 2022"
+  },
+  {
+    "id": 7,
+    "name": "Jasim Prodhan",
+    "review": "I am very satisfy for good quality and on time delivery",
+    "rating": 4.5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxl-bhSlycPsE2QR-mPcnFlIqCx7m5Y0oDUQQBkWXhZe9cHu-RxuQ7cvqc4Pj13Rjrj0&usqp=CAU",
+    "date":"01 April 2022"
+  }
+]

@@ -1,0 +1,39 @@
+.nav-bar{
+    padding-top: 10px;
+    background-color: gray;
+}
+
+.logo-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f5eeee;
+    font-weight: 700;
+}
+.logo-text span{
+    color: #4d2fd1;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.nav-link:hover{
+    color: #4d2ce2 !important;
+}
+
+.active-link{
+    color: #4d2fd1;
+    
+    text-decoration: none !important;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.active-link:hover{
+   color: #4f3cf7 !important;
+}
+

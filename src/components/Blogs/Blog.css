@@ -1,0 +1,23 @@
+.blogs{
+    
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}
+.blog1{
+    background-color: aliceblue;
+    width: 80%;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.blog2{
+    background-color: lightblue;
+    width: 80%;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 10px;
+}

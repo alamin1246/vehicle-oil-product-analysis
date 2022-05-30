@@ -1,0 +1,45 @@
+.review-heading-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-weight: 700;
+}
+
+
+.review-container{
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.review{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.review-rating{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.review-image{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.review-name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.review-date{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.review-star{
+    color: #cc0505;
+
+}
+
+.star-icon{
+    width: 21px;
+    margin-bottom: 4px;
+    color: #831225;
+}
